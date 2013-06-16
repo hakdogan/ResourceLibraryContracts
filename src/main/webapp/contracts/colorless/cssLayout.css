@@ -1,0 +1,29 @@
+#top {
+    position: relative;
+    background-color: #FFFFFF;
+    border: #000000 1px solid;
+    color: white;
+    padding: 5px;
+    margin: 0px auto 5px auto;
+    width: 500px;
+}
+.center_content {
+    position: relative;
+    background-color: #ffffff;
+    border: #000000 1px solid;
+    padding: 5px;
+    margin: 0px auto 5px auto;
+    width: 500px;
+}
+
+#top a:link, #top a:visited {
+  color: white;
+  font-weight : bold;
+  text-decoration: none;
+}
+
+#top a:link:hover, #top a:visited:hover  {
+  color: black;
+  font-weight : bold;
+  text-decoration : underline;
+}
